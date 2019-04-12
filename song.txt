@@ -67,3 +67,5 @@ In the age of revolution we’re a unit
 -------------------------------------
 First feature commit
 -------------------------------------
+Second feature commit
+-------------------------------------
